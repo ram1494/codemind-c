@@ -11,6 +11,7 @@ int main()
         }
         count++;
     }
-    printf("%d",gcd);
+    printf("%d
+",gcd);
     return 0;
 }
